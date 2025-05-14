@@ -174,7 +174,6 @@ sktime==0.24.0
 slicer==0.0.7
 smmap==5.0.1
 snowflake-connector-python==3.6.0
-snowflake.core==0.1.0
 sortedcontainers==2.4.0
 soupsieve==2.5
 SQLAlchemy==2.0.29
